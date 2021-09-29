@@ -1,5 +1,5 @@
 <template>
-  <div class="about">
+  <div class="about ml-4 mt-3">
     <h1>Products</h1>
     <p>
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut

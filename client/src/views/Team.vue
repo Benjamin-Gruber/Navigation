@@ -1,6 +1,6 @@
 <template>
-  <div  class="ml-4 mt-3">
-    <h1>Home</h1>
+  <div class="about ml-4 mt-3">
+    <h1>Team</h1>
     <p>
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
       labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et
@@ -8,5 +8,3 @@
     </p>
   </div>
 </template>
-
-

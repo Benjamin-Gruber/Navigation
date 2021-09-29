@@ -6,8 +6,9 @@
         >A Dog With a Mission</span
       >
       <v-spacer></v-spacer>
-      <router-link active-class="red--text" to="/" exact>Home</router-link>
-      <router-link active-class="red--text" to="/about" exact class="ml-5">About</router-link>
+      <v-btn active-class="warning" to="/" exact>Home</v-btn>
+      <v-btn active-class="warning" to="/products" exact class="ml-5">Products</v-btn>
+      <v-btn active-class="warning" to="/about" exact class="ml-5">About</v-btn>
     </v-app-bar>
     <v-main>
       <div class="d-flex">
